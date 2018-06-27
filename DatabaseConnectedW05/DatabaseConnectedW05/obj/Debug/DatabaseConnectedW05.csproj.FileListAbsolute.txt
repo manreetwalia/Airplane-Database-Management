@@ -1,0 +1,10 @@
+C:\Users\manre\source\repos\DatabaseConnectedW05\DatabaseConnectedW05\bin\Debug\DatabaseConnectedW05.exe.config
+C:\Users\manre\source\repos\DatabaseConnectedW05\DatabaseConnectedW05\bin\Debug\DatabaseConnectedW05.exe
+C:\Users\manre\source\repos\DatabaseConnectedW05\DatabaseConnectedW05\bin\Debug\DatabaseConnectedW05.pdb
+C:\Users\manre\source\repos\DatabaseConnectedW05\DatabaseConnectedW05\obj\Debug\DatabaseConnectedW05.csprojAssemblyReference.cache
+C:\Users\manre\source\repos\DatabaseConnectedW05\DatabaseConnectedW05\obj\Debug\DatabaseConnectedW05.Form1.resources
+C:\Users\manre\source\repos\DatabaseConnectedW05\DatabaseConnectedW05\obj\Debug\DatabaseConnectedW05.Properties.Resources.resources
+C:\Users\manre\source\repos\DatabaseConnectedW05\DatabaseConnectedW05\obj\Debug\DatabaseConnectedW05.csproj.GenerateResource.cache
+C:\Users\manre\source\repos\DatabaseConnectedW05\DatabaseConnectedW05\obj\Debug\DatabaseConnectedW05.csproj.CoreCompileInputs.cache
+C:\Users\manre\source\repos\DatabaseConnectedW05\DatabaseConnectedW05\obj\Debug\DatabaseConnectedW05.exe
+C:\Users\manre\source\repos\DatabaseConnectedW05\DatabaseConnectedW05\obj\Debug\DatabaseConnectedW05.pdb
